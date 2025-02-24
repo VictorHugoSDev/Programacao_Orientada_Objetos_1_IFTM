@@ -1,0 +1,10 @@
+1- Programa que leia dois números inteiros, divide o primeiro pelo segundo e exiba o resultado.
+Trate as duas exceções possíveis de ocorrer.
+
+2- Faça um programa em java que valida uma senha através de uma função -> "senhaCorreta" do tipo void
+O main deve possuir a senha (fixa) e o usuário deverá acerta-la.
+Se a senha for acertada, apresentar uma mensagem de senha correta.
+Caso a senha do usuário não esteja correta, deve-se lançar uma exceção, falando que a senha está incorreta.
+
+3- Faça um programa em java que leia do usuário um valor de saque.
+É permitido um saque de no máximo R$ 2000,00. Caso ultrapasse deve ser lançado uma exceção. Use a função "verificaLimiteSaque", void.
