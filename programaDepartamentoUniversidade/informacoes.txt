@@ -1,0 +1,7 @@
+Faça um programa em java q possuo 4 classes. APP Departamento Pessoa Universidade
+
+pessoa possui os atributos: nome, idade, sexo, departamento
+departamento: nome, localização, pessoa
+universidade:nome, departamento
+
+faça uma aplicação que envolva os relacionamentos de agregação e composicao
